@@ -47,7 +47,7 @@ h1 {
 h2 {
     font-family: Garamond;
     font-size: 3rem;
-    text-align: left;
+    text-align: center;
     color: teal;
 }
 
@@ -69,6 +69,53 @@ article {
     margin: 1.7rem .5rem 1rem 0;
     color: salmon;
 }
+
+figcaption {
+    font-family: helvetica;
+    color: black;
+    text-align: center;
+    padding: .5rem;
+    
+}
+
+.left {
+    background-color: beige;
+    width: 50%;
+    position: relative;
+    bottom: 2rem;
+    height: 2rem
+}
+
+.right {
+    background-color: lightyellow;
+    width: 50%;
+    position: relative;
+    bottom: 2rem;
+    float: right;
+    height: 2rem
+}
+
+/* Company Page */
+
+.christianne {
+    background-color: beige;
+    font-family: helvetia;
+    font-size: 1.25rem;
+    padding: 1rem;
+}
+
+.aboutus {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.founder {
+    font-size: 1.5rem;
+    font-family: Georgia;
+    font-weight: lighter;
+}
+
+
 
 
 
