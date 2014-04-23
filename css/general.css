@@ -169,7 +169,7 @@ figcaption {
 footer {
     background-color: turquoise;
     overflow: hidden;
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
 }
 
 footer p {
@@ -177,6 +177,7 @@ footer p {
     margin-top: 1rem;
     font-weight: bold;
     color: black;
+}
     
 /* Company Page */
 
