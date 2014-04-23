@@ -218,38 +218,56 @@ footer p {
 }
 
 .yellow {
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     padding: .5rem;
 }
 
+.ycaption {
+    width: 50%;
+    position: relative;
+    bottom: 4rem;
+    height: 2rem;
+    float: right;
+    margin-left: 1rem;
+    font-weight: bold;
+}
+
 .green {
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     padding: .5rem;
 }
 
 .pastelblue {
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     padding: .5rem;
 }
 
 .pastellavender {
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     padding: .5rem;
 }
 
 .pastelpink {
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     padding: .5rem;
 }
 
+.salmonpink {
+    width: 90px;
+    height: 90px;
+    padding: .5rem;
+}
 
-
-
+.pastelorange {
+    width: 90px;
+    height: 90px;
+    padding: .5rem;
+}
 
 
 
