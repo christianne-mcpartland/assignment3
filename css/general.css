@@ -270,10 +270,30 @@ footer p {
     padding: .5rem;
 }
 
+.lcaption {
+    width: 50%;
+    position: relative;
+    bottom: 4rem;
+    height: 2rem;
+    float: right;
+    margin-left: 0rem;
+    font-weight: bold;
+}
+
 .pastelpink {
     width: 90px;
     height: 90px;
     padding: .5rem;
+}
+
+.picaption {
+    width: 50%;
+    position: relative;
+    bottom: 4rem;
+    height: 2rem;
+    float: right;
+    margin-left: 0rem;
+    font-weight: bold;
 }
 
 .salmonpink {
@@ -282,10 +302,30 @@ footer p {
     padding: .5rem;
 }
 
+.scaption {
+    width: 50%;
+    position: relative;
+    bottom: 4rem;
+    height: 2rem;
+    float: right;
+    margin-left: 0rem;
+    font-weight: bold;
+}
+
 .pastelorange {
     width: 90px;
     height: 90px;
     padding: .5rem;
+}
+
+.ocaption {
+    width: 50%;
+    position: relative;
+    bottom: 4rem;
+    height: 2rem;
+    float: right;
+    margin-left: 0rem;
+    font-weight: bold;
 }
 
 
