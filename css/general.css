@@ -77,7 +77,6 @@ figcaption {
     color: black;
     text-align: center;
     padding: .5rem;
-    
 }
 
 .left {
@@ -239,10 +238,30 @@ footer p {
     padding: .5rem;
 }
 
+.gcaption {
+    width: 50%;
+    position: relative;
+    bottom: 4rem;
+    height: 2rem;
+    float: right;
+    margin-left: 0rem;
+    font-weight: bold;
+}
+
 .pastelblue {
     width: 90px;
     height: 90px;
     padding: .5rem;
+}
+
+.pcaption {
+    width: 50%;
+    position: relative;
+    bottom: 4rem;
+    height: 2rem;
+    float: right;
+    margin-left: 0rem;
+    font-weight: bold;
 }
 
 .pastellavender {
