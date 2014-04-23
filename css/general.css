@@ -146,7 +146,8 @@ figcaption {
     height: 46px;
     width: 46px;
     float:left;
-    margin-left: 2rem;
+    margin-left: 4rem;
+    margin-top: 2rem;
 }
 
 .pinterest {
@@ -154,6 +155,21 @@ figcaption {
     width: 46px;
     float:left;
     margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.twitter {
+    height: 46px;
+    width: 46px;
+    float:left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+footer {
+    background-color: turquoise;
+    overflow: hidden;
+    padding-bottom: 6rem;
 }
 
 /* Company Page */
