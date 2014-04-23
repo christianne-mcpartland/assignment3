@@ -142,6 +142,13 @@ figcaption {
     text-align: center;
 }
 
+.facebook {
+    height: 46px;
+    width: 46px;
+    float:left;
+    margin-left: 2rem;
+}
+
 
 /* Company Page */
 
