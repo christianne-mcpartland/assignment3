@@ -217,6 +217,31 @@ footer p {
     font-weight: bold;
 }
 
+.yellow {
+    width: 70px;
+    height: 70px;
+    padding: .5rem;
+}
+
+.green {
+    width: 70px;
+    height: 70px;
+    padding: .5rem;
+}
+
+.pastelblue {
+    width: 70px;
+    height: 70px;
+    padding: .5rem;
+}
+
+.pastellavender {
+    width: 70px;
+    height: 70px;
+    padding: .5rem;
+}
+
+
 
 
 
