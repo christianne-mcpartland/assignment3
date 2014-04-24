@@ -342,8 +342,8 @@ footer p {
 .ocaption {
     width: 50%;
     position: relative;
-    bottom: 4rem;
-    height: 2rem;
+    bottom: 4.5rem;
+    height: 1rem;
     float: right;
     margin-left: 0rem;
     font-weight: bold;
