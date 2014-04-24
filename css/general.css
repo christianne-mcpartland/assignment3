@@ -225,16 +225,21 @@ footer p {
     padding: 0;
 }
 
+.cfeatured {
+    background-color: beige;
+    padding: .5rem
+}
+
 .cavailable {
     background-color: beige;
     padding: .5rem
 }
 
 .lavender {
-    background-color: beige;
     font-family: helvetica;
-    font-size: .75rem;
-    font-weight: bold;
+    font-size: 1rem;
+    font-weight: bolder;
+    background-color: lightpink
 }
 
 .yellow {
@@ -348,6 +353,9 @@ footer p {
     margin-left: 0rem;
     font-weight: bold;
 }
+
+
+
 
 
 
