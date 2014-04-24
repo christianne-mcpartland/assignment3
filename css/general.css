@@ -46,11 +46,12 @@ h1 {
 }
 
 h2 {
-    font-family: Garamond;
+    font-family: 'Nixie One', 'cursive';
     font-size: 3rem;
     text-align: center;
     color: teal;
     margin-top: 1.5rem;
+    font-weight: bolder;
 }
 
 .fresh {
@@ -59,7 +60,7 @@ h2 {
 }
 
 p {
-    line-height: 1.5rem;
+    line-height: 1.8rem;
     margin: 0 0 1.5rem;
 }
 
