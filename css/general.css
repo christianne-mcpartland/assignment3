@@ -201,6 +201,7 @@ footer p {
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-family: 'Nixie One', 'cursive';
+    font-weight: bolder;
     background-color: beige;
     padding: .5rem
 }
@@ -233,6 +234,7 @@ footer p {
     background-color: beige;
     padding: .5rem;
     font-family: 'Nixie One', 'cursive';
+    font-weight: bolder;
 }
 
 .cavailable {
